@@ -1,8 +1,8 @@
 {
-  "name": "react-wines-102",
+  "name": "serli-button-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://react-bootcamp.github.io/react-wines-102/",
+  "homepage": "",
   "devDependencies": {
     "react-scripts": "1.0.14"
   },
