@@ -4,7 +4,8 @@
   "private": true,
   "homepage": "",
   "devDependencies": {
-    "react-scripts": "1.0.14"
+    "react-scripts": "1.0.14",
+    "webpack-dev-server": "^2.9.5"
   },
   "dependencies": {
     "es-symbol": "1.1.2",
@@ -22,10 +23,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "prettier": "prettier --write --single-quote --trailing-comma es5 --print-width 100 --tab-width 2 --jsx-bracket-same-line \"src/**/*.js\""
-  },
-  "devServer": {
-    "headers": {
-        "Access-Control-Allow-Origin": "*"
-    }
   }
 }
