@@ -4,8 +4,7 @@
   "private": true,
   "homepage": "",
   "devDependencies": {
-    "react-scripts": "1.0.14",
-    "webpack-dev-server": "^2.9.5"
+    "react-scripts": "1.0.14"
   },
   "dependencies": {
     "es-symbol": "1.1.2",
